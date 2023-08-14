@@ -1,0 +1,97 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-03.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-01.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 342.66666666666663,
+                "y": 184.33333333333334
+            }
+        },
+        "level-02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 289,
+                "y": 206
+            }
+        },
+        "level-023.tmx": {
+            "scale": 1.5318749999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.52223582211343,
+                "y": 184.08812729498166
+            }
+        },
+        "level-03.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 316.66666666666663,
+                "y": 204.66666666666669
+            }
+        },
+        "level-04_neu.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 378.66666666666663,
+                "y": 231.3333333333333
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/vcorb/StudioProjects/pixel_adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Pixel Adventure.tsx",
+        "level-01.tmx",
+        "level-03.tmx"
+    ],
+    "project": "pixel_adventure.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "Pixel Adventure.tsx",
+        "level-01.tmx",
+        "level-03.tmx",
+        "level-04_neu.tmx",
+        "level-02.tmx",
+        "level-023.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
