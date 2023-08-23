@@ -14,8 +14,8 @@
         },
         "level-01.tmx": {
             "expandedObjectLayers": [
-                2,
-                3
+                3,
+                2
             ],
             "scale": 1.5,
             "selectedLayer": 2,
@@ -45,14 +45,14 @@
         },
         "level-03.tmx": {
             "expandedObjectLayers": [
-                2,
-                3
+                3,
+                2
             ],
             "scale": 1.5,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 316.66666666666663,
-                "y": 204.66666666666669
+                "x": 315.33333333333337,
+                "y": 202.66666666666669
             }
         },
         "level-04_neu.tmx": {
